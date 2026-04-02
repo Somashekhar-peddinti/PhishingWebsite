@@ -12,3 +12,5 @@ scikit-learn
 # pinned Werkzeug==2.0.3 - Flask 2.0.2 incompatible with Werkzeug 3.x
 # retrained model - excluded Index column, correct 30 features
 # added python-whois - missing from original requirements
+
+Werkzeug==2.0.3
